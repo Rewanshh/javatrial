@@ -1,3 +1,5 @@
+//Q1. Write a program to sort an array in descending order using bubble sort.
+
 import java.util.*;
 public class BUBBLESORT {
     public static void main(String args[])
